@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Sakhiur2022
+- 👋 Hi, I’m sakhiur
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning c program
-- 💞️ I’m looking to collaborate on "Not yet determined"
-- 📫 How to reach me mail id: sakhiur.rahman@northsouth.edu
+- 🌱 I’m currently learning Java
 
 <!---
 Sakhiur2022/Sakhiur2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
