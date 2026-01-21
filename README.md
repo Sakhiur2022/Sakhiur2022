@@ -32,7 +32,6 @@ I have built and maintained multiple complete projects, including:
 These are projects I can explain end-to-end, from design decisions to technical trade-offs.
 
 ### 🌱 Current focus
-- Strong academic performance in my final semester
 - Improving software engineering practices through real projects
 - Strengthening system-level fundamentals alongside modern tools
 
