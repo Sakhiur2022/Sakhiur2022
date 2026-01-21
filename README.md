@@ -4,11 +4,12 @@ I’m a final-year Computer Science & Engineering (CSE) student currently in my 
 
 I learn best by building complete systems end-to-end — experimenting fast, breaking things, and refining my understanding through hands-on work. My focus is on understanding *how systems behave in practice*, not just making features work.
 
-### 🔧 What I actively work with
-- **Applied AI & LLMs:** LangChain (Python), experimentation with AI-driven workflows
+### 🔧 Currently learning and applying
+- **Applied AI & LLMs:** LangChain (Python), project-based experimentation
 - **Web & Backend:** Next.js, Supabase, JavaScript
-- **Systems & Fundamentals:** Assembly language, Computer Architecture concepts
+- **Systems & Fundamentals:** Assembly language, Computer Architecture concepts (academic + practice-oriented)
 - **Databases:** Relational database design with practical usage
+
 
 ### 🧪 End-to-end projects
 I have built and maintained multiple complete projects, including:
