@@ -29,8 +29,6 @@ I have built and maintained multiple complete projects, including:
   Built as a real-world company project with practical business requirements and constraints.  
   🔗 https://r21.com.bd
 
-These are projects I can explain end-to-end, from design decisions to technical trade-offs.
-
 ### 🌱 Current focus
 - Improving software engineering practices through real projects
 - Strengthening system-level fundamentals alongside modern tools
