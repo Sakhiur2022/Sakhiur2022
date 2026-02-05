@@ -9,6 +9,7 @@ I learn best by building complete systems end-to-end — experimenting fast, bre
 - **Web & Backend:** Next.js, Supabase
 - **Systems & Fundamentals:** Assembly language, Computer Architecture concepts (academic + practice-oriented)
 - **Databases:** Relational database design with practical usage
+- **Automation:** Workflow orchestration using n8n
 
 
 ### 🧪 End-to-end projects
