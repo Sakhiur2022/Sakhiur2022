@@ -1,6 +1,6 @@
 ## Hi, I'm Sakhiur 👋
 
-I’m a final-year Computer Science & Engineering (CSE) student currently in my 8th semester, studying **Software Engineering** alongside **Computer Architecture**.
+I’m a final-year Computer Science & Engineering (CSE) student currently in my 9th semester, studying **Software Engineering** alongside **Computer Architecture**.
 
 I learn best by building complete systems end-to-end — experimenting fast, breaking things, and refining my understanding through hands-on work. My focus is on understanding *how systems behave in practice*, not just making features work.
 
