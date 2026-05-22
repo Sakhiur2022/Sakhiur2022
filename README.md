@@ -16,8 +16,8 @@ I learn best by building complete systems end-to-end — experimenting fast, bre
 I have built and maintained multiple complete projects, including:
 - **BuySmart**  
   *AI-powered smart e-commerce platform with multi-agent support*  
-   A platform featuring intelligent agents for recommendations, customer support, sentiment analysis, and automated refund management.
-  🔗 https://ummah-connect-asr.vercel.app
+   A platform featuring intelligent agents for recommendations, customer support, sentiment analysis, and automated refund management. <br/>
+  🔗 https://buy-smart-asr.vercel.app/
 
 - **Ummah Connect**  
   *Emotion-based Islamic social media platform focused on women’s cyber safety.*  
