@@ -1,16 +1,17 @@
 ## Hi, I'm Sakhiur 👋
 
-I’m a final-year Computer Science & Engineering (CSE) student currently in my 9th semester, studying **Software Engineering** alongside **Computer Architecture**.
+I’m a final-year Computer Science & Engineering (CSE) student in my 10th semester, studying **Machine Learning** alongside **Microprocessor Interfacing & Embedded Systems** and conducting **Directed Research**.
 
 I learn best by building complete systems end-to-end — experimenting fast, breaking things, and refining my understanding through hands-on work. My focus is on understanding *how systems behave in practice*, not just making features work.
 
 ### 🔧 What I actively work with
-- **Applied AI & LLMs:** LangChain (Python), project-based experimentation
+- **Applied AI & LLMs:** Retrieval-Augmented Generation (RAG), LangChain(Typescript),and LLM experimentation
 - **Web & Backend:** Next.js, Supabase
-- **Systems & Fundamentals:** Assembly language, Computer Architecture concepts (academic + practice-oriented)
+- **Systems & Fundamentals:** Assembly language, Computer Architecture concepts
 - **Databases:** Relational database design with practical usage
 - **Automation:** Workflow orchestration using n8n
-
+- **Bioinformatics:** QSAR modeling
+- **Machine Learning:** feature engineering, and predictive modeling
 
 ### 🧪 End-to-end projects
 I have built and maintained multiple complete projects, including:
