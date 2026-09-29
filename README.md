@@ -1,6 +1,7 @@
 ## Hi, I'm Sakhiur 👋
 
-I’m a final-year Computer Science & Engineering (CSE) student in my 10th semester, studying **Machine Learning** alongside **Microprocessor Interfacing & Embedded Systems** and conducting **Directed Research**.
+I’m a final-year Computer Science & Engineering (CSE) student in my 11th semester, currently studying **Pattern Recognition** and **Operating Systems Design**, while conducting **Directed Research** and working on my **Capstone Project**.
+
 
 I learn best by building complete systems end-to-end — experimenting fast, breaking things, and refining my understanding through hands-on work. My focus is on understanding *how systems behave in practice*, not just making features work.
 
